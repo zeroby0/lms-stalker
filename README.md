@@ -10,9 +10,11 @@ make a folder called public in the same dir as this script. this is where beauti
 To make the files publicly accessible, you can run a simple HTTP server in python, do that in `public` folder
 
 Screen Cheatsheet (for me):  
+``` bash 
 screen -ls # show processes  
 screen -r ID  
-ctrl a + d # detach  
+ctrl a + d # detach   
+```
 
 sample output to json:
  ``` JSON
