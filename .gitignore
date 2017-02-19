@@ -87,3 +87,9 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# OSX files
+.ds_store
+
+# Temp files
+tmp
