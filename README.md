@@ -14,6 +14,24 @@ screen -ls # show processes
 screen -r ID
 ctrl a + d # detach
 
+sample output to json:
+ ``` JSON
+{
+	"imt201X5X3 Vinay Chandrasekhar K": {
+        "time_array": [
+            "31 02, 2025, 19 49 48",
+            "31 02, 2025, 19 50 51",
+            "31 02, 2025, 19 51 54",
+            "31 02, 2025, 19 52 56",
+            "31 02, 2025, 19 53 59",
+        ]
+    },
+}
+ ```
+
+ License: MIT
+
+
 
 
 
